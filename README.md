@@ -1,2 +1,2 @@
 # Day6
-https://teeteelawlah.github.io/Day6/
+https://teeteelawlah.github.io/Google/
